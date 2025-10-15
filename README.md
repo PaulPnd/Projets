@@ -1,6 +1,6 @@
 # Projets
 
-Ce repository contient quelques exemples de code réalisés sur des projets avec des chercheurs.euses / doctorants.es. Il a pour but de mettre en valeur mes compétences tout aussi bien en matière de codage pur que de statistiques.
-D'autres codes seront ajoutés au fur et à mesure avec par exemple :
+Ce dépôt rassemble divers exemples de code développés dans le cadre de projets menés avec des chercheur·e·s et des doctorant·e·s. Il vise à illustrer mes compétences en programmation ainsi qu’en statistiques. 
+De nouveaux scripts seront ajoutés au fil du temps, notamment portant sur :
 - Un exemple de réseaux de neurones
 - Une analyse R pour créer des profils types.
